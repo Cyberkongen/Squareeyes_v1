@@ -2,7 +2,7 @@
 
 ![image]()
 
-Dynamic website for buying / renting moveis online. Movies fetched from API. 
+Dynamic website for buying / renting movies online. Movies fetched from API. 
 
 ## Description
 
@@ -20,12 +20,15 @@ Made with:
 
 - HTML
 - CSS
+- JavaScript
 
 ## Getting Started
 
 ### Installing
 
 This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+
+https://playful-longma-0170ce.netlify.app/
 
 1. Clone the repo:
 
