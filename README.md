@@ -1,8 +1,8 @@
-# Community Science Museum
+# Squareeyes
 
-![image](https://github.com/Cyberkongen/Community_Science_Museum/blob/main/images/CSM.png?raw=true)
+![image]()
 
-Static website for a fictional local science museum.
+Dynamic website for buying / renting moveis online. Movies fetched from API. 
 
 ## Description
 
