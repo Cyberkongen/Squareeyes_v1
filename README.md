@@ -38,12 +38,9 @@ git clone git@https://github.com/Cyberkongen/Squareeyes_v1.git
 
 2. Install the dependencies:
 
-You can for example use an extension for VScode with plugins live live server or live preview.
+You can for example use an extension like live server og live pewview with VScode to run the website locally. 
 
 ```
-run npm -pip install
-
-install dependencies
  
 ```
 
