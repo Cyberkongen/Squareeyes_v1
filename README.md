@@ -1,6 +1,6 @@
 # Squareeyes
 
-![image]()
+![image](https://github.com/Cyberkongen/Squareeyes_v1/blob/main/assets/Squareeyeslanding.png?raw=true)
 
 Dynamic website for buying / renting movies online. Movies fetched from API. 
 
